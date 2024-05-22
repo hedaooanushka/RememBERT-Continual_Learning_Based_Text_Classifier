@@ -1,0 +1,1 @@
+#Consists of training loop and user menu for selecting training mode and dataset
